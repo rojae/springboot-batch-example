@@ -33,5 +33,5 @@ for i in $(seq -s " " 1 ${SLEEP_SECOND} 60);do
 ## crontab에 추가
 ```shell
 #!/bin/bash
-00 3 * * * sh /Users/[경로]/batch.sh
+0 3 * * * sh /Users/[경로]/batch.sh
 ```
