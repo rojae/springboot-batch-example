@@ -1,6 +1,6 @@
-# springboot-batch-example
-springboot-batch-example
-
+# springboot batch 예제 프로그램
+ - shell
+ - crontab
 
 # batch shell 추가
 
