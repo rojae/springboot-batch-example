@@ -2,6 +2,9 @@
  - shell
  - crontab
 
+
+
+
 # batch shell 추가
 
 ## batch.sh (1분에 3번 작동)
@@ -22,6 +25,8 @@ for i in $(seq -s " " 1 ${SLEEP_SECOND} 60);do
     sleep ${SLEEP_SECOND};
  done
 ```
+
+
 
 
 ## crontab에 추가
